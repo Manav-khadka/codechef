@@ -10,7 +10,7 @@ int main(){
     }
     for (int i = 0; i <n; i++)
     {
-        if ((x[i]+(2*z[i]))>y[i])
+        if ((x[i]+(2*z[i]))>=y[i])
         {
             cout<<"YES"<<endl;
            

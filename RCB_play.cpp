@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n,N;
+    int n;
     cin>>n;
     int x[n],y[n],z[n];
     for (int i = 0; i <n; i++)
